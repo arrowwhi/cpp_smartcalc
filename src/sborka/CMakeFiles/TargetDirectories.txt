@@ -1,4 +1,0 @@
-/Users/ivan/Projects/CPP/smartcalc/src/sborka/CMakeFiles/calc_view.dir
-/Users/ivan/Projects/CPP/smartcalc/src/sborka/CMakeFiles/edit_cache.dir
-/Users/ivan/Projects/CPP/smartcalc/src/sborka/CMakeFiles/rebuild_cache.dir
-/Users/ivan/Projects/CPP/smartcalc/src/sborka/CMakeFiles/calc_view_autogen.dir
